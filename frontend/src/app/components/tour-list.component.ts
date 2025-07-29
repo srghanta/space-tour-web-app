@@ -1,1 +1,0 @@
-// Tour list component placeholder
